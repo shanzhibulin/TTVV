@@ -161,18 +161,17 @@ CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV4K,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 
 地方卫视,#genre#
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
 浙江卫视,http://cfss.cc/api/ysp/zjws.m3u8
 浙江卫视,http://jltpc.x3322.net:9901/tsfile/live/0124_1.m3u8?key=txiptv
 浙江卫视,http://122.224.153.162:9901/tsfile/live/0124_1.m3u8?key=txiptv
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
 浙江卫视,http://gxdl-lhs.8866.org:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://222.175.159.226:808/hls/202342/index.m3u8
 浙江卫视,https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD
 浙江卫视,https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 
-湖南卫视,http://222.71.90.218:8888/newlive/live/hls/22/live.m3u8
-湖南卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
+湖南卫视,https://live.goodiptv.club/api/cqyx.php?id=hunanHD
 湖南卫视,http://jltpc.x3322.net:9901/tsfile/live/0117_2.m3u8?key=txiptv
 湖南卫视,http://gxdl-lhs.8866.org:85/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://122.224.153.162:9901/tsfile/live/0128_1.m3u8?key=txiptv
@@ -281,6 +280,7 @@ CCTV4K,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k
 云南卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
 云南卫视,http://222.175.159.226:808/hls/202360/index.m3u8
 
+河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
 河南卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
 河南卫视,http://222.175.159.226:808/hls/202361/index.m3u8
 河南卫视,https://cntv.lat/tv/live.php?auth=231110&id=henanHD
