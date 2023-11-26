@@ -1,4 +1,4 @@
-﻿中央卫视,#genre#
+
 CCTV1,http://120.196.232.19:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
 CCTV1,http://113.207.84.197/session/9dc93e16-8a7e-11ee-bcbe-5254006225bb$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8?token=5294f01fa8e7c31028d2759c4a794388_1700881635_1700881635
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
@@ -98,8 +98,6 @@ CCTV风云音乐,http://111.20.40.163/PLTV/88888893/224/3221226953/index.m3u8
 CCTV风云音乐,http://111.20.40.164/PLTV/88888893/224/3221226953/index.m3u8
 CCTV风云音乐,http://111.20.40.165/PLTV/88888893/224/3221226953/index.m3u8
 
-
-地方卫视,#genre#
 浙江卫视,http://120.196.232.22:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226690/1.m3u8
 浙江卫视,http://113.207.84.199/session/5e474674-8a6b-11ee-bcbe-5254006225bb$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8?token=6acd955770496f26c1837b4cf9a81e67_1700869884_1700869884
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -264,41 +262,4 @@ CCTV风云音乐,http://111.20.40.165/PLTV/88888893/224/3221226953/index.m3u8
 凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
 凤凰资讯,http://r.jdshipin.com/cCCzW
 
-
-电影轮播,#genre#
-喜剧1,https://live.metshop.top/douyu/10298856
-喜剧2,https://live.metshop.top/yy/1382736862
-喜剧3,https://live.metshop.top/yy/1354931495
-贺岁1,https://live.metshop.top/huya/11352897
-贺岁2,https://live.metshop.top/huya/11601986
-沈腾,https://live.metshop.top/huya/11601968
-周星驰1,http://tx-screenshots.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
-周星驰1,https://www.goodiptv.club/huya/11342412
-周星驰2,http://maomao.kandiantv.cn/douyu1.php?id=122402
-周星驰3,https://live.metshop.top/yy/1382736808
-周星驰4,https://live.metshop.top/huya/11352894
-华语电影,http://maomao.kandiantv.cn/douyu1.php?id=85894
-科幻电影,https://live.metshop.top/yy/1354930209
-漫威电影1,https://live.metshop.top/yy/1354932402
-漫威电影2,https://live.metshop.top/yy/1354930233
-国语译制,https://live.metshop.top/douyu/2436390
-金庸电影,https://live.metshop.top/huya/11342435
-
-电视剧循播,#genre#
-陈翔六点半,https://live.metshop.top/huya/11274154
-吐槽大会,https://live.metshop.top/douyu/9236042
-爱情公寓,https://live.metshop.top/huya/11336726
-家有儿女,https://live.metshop.top/huya/11352872
-武林外传,https://live.metshop.top/yy/1353852605
-武林外传,https://live.metshop.top/yy/1394000563
 赵本山小品,https://live.metshop.top/yy/1382683959
-倚天屠龙记,https://live.metshop.top/yy/1449856066
-倚天屠龙记,https://live.metshop.top/yy/1354755003
-倚天屠龙记TVB,https://live.metshop.top/huya/23734246
-天龙八部,https://live.metshop.top/yy/1351814644
-天龙八部,https://live.metshop.top/yy/28996058
-天龙八部,https://live.metshop.top/huya/23903123
-神雕侠侣,https://live.metshop.top/yy/1382704651
-封神榜TVB,https://live.metshop.top/huya/23749096
-封神榜TVB,https://live.metshop.top/huya/29465849
-周杰伦MV,https://live.metshop.top/douyu/7537296
