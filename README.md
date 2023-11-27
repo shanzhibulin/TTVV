@@ -23,4 +23,4 @@ https://jsdelivr.b-cdn.net/gh/shanzhibulin/TTVV@main/TTVV.txt
 
 https://cdn.jsdelivr.net/gh/shanzhibulin/TTVV/jiayong.txt
 
-https://github.dev/shanzhibulin/TTVV/blame/main/jiayong.txt
+
